@@ -1,0 +1,12 @@
+{
+  "system_id": "STATION_01",
+  "parameters": {
+    "thermal_threshold": 82,
+    "power_limit_w": 95,
+    "interval_sec": 60
+  },
+  "logging": {
+    "path": "./logs/system.log",
+    "level": "INFO"
+  }
+}
